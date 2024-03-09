@@ -58,7 +58,7 @@ class Navbar extends React.Component {
       <div className="bar">
         {
           <h5 className="heading">
-            iPod <i className="fas fa-wifi"></i>
+            iPod <i className="fa-solid fa-wifi"></i>
           </h5>
         }
         {noty === true && <h5 className="notification">{notifyText}</h5>}

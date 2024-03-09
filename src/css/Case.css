@@ -7,7 +7,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  box-shadow: inset 0 0 20px 3px black;
+  box-shadow: inset 0 0 20px 0px black;
   -webkit-box-reflect: below 8px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(70%, transparent), to(rgba(250, 250, 250, 0.1)));
   /* '-webkit-box-reflect: below 8px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(70%, transparent), to(rgba(250, 250, 250, 0.1)))' is not supported by Edge. 
   Add '-webkit-box-reflect: -ms-gradient' to support Edge 12+.Microsoft Edge Toolscompat-api/css */

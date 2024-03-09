@@ -18,7 +18,7 @@ class KnowMore extends React.Component {
     const { divOpen } = this.state;
     let cssProp;
     if (divOpen === false) {
-      cssProp = { top: "-542px" };
+      cssProp = { top: "-475px" };
     } else {
       cssProp = { top: "0px" };
     }
@@ -55,6 +55,11 @@ class KnowMore extends React.Component {
         </div>
         <button id="info-btn" onClick={this.openDiv}>
           Know More
+        </button>
+        <button id="src-btn">
+          <a href="https://github.com/harshalmadgulkar/ipod_cn" target="_blank">
+            Source Code
+          </a>
         </button>
       </div>
     );
