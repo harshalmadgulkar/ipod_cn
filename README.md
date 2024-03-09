@@ -4,7 +4,7 @@
 ## Basic Features.
 
 1. Looks like an amazing classic device we all used to adore.
-2. Fully working functionalty for listening to music, all controls work : play/pause, forward, reverse, next, previous.
+2. Fully working functionality for listening to music, all controls work : play/pause, forward, reverse, next, previous.
 3. Fully working settings menu(change theme, change wheel color, change wallpaper).
 4. Amazing looking lock screen.
 5. Now playing Menu.
